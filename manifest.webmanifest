@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Aurelle Brands — The Art of Thoughtful Gifting",
+  "short_name": "Aurelle",
+  "description": "Thoughtfully curated corporate gifting, branding and bespoke merchandise.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ea",
+  "theme_color": "#064d3b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Collections",
+      "short_name": "Gifts",
+      "url": "/#collections"
+    },
+    {
+      "name": "Get a Quote",
+      "short_name": "Contact",
+      "url": "/#contact"
+    }
+  ]
+}
