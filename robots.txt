@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.aurellebrands.co.za/sitemap.xml
